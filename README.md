@@ -1,2 +1,2 @@
-# sparkCoursera
-Projects done in spark for coursera
+# sparkCoursera Projects
+Those are projects developed for Coursera’s course in Big Data Engineering.
